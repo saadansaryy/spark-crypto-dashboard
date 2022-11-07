@@ -1,0 +1,49 @@
+/* Cryptocurrency Dropdown */
+
+/* Search Input */
+.searchBox#crypto_css_input{ 
+  height: 0px;
+  width: 0px;
+ }
+
+ /* Chips + Search Input Body Div */
+ .searchWrapper{
+  height: 40px;
+  width: 17rem;
+  background: black;
+  cursor: pointer;
+ }
+
+ /* Options Container */
+ .optionContainer::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+.optionContainer {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.optionListContainer{
+  width: 18rem;
+  margin-top: 4px;
+}
+
+ /* optionContainer hover effect for both the Dropdowns  */
+ .optionContainer li:hover,
+.optionContainer .highlight{
+  background: #fee2e2;
+  color: black;
+}
+
+/* Responsiveness */
+@media only screen and (max-width: 400px){
+  .searchWrapper{
+    width: 16rem;
+   }
+   .chip{
+    font-size: 0.7rem;
+   }
+   .optionListContainer{
+    width: 17rem;
+  }
+}
