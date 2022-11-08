@@ -5,17 +5,17 @@
 </div>
 <div align="center">
 <h2>Hey there! <h2>
-  <p>Myself Ritu Verma !</p> 
+  <p>Myself Saad Ansari !</p> 
 </div>
   
   <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ritu-verma-52a105228/">
+  <a href="https://www.linkedin.com/in/saad-ansari-117013229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtu.be/Tnof6r5ZSyc">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="twitterURL">
+  <a href="https://twitter.com/saad_ansare">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -25,7 +25,7 @@
 Clone the repository on your local machine with the command below in your terminal, and cd into the **my-app**
 
 ```bash
-https://github.com/R-holmes10/crypto-dashboard
+https://github.com/saadansaryy/spark-crypto-dashboard.git
 
 cd my-app
 ```
