@@ -76,7 +76,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   <p>➤ Saad Ansari </p> 
   <p>➤ Md. Ashif Reza</p>
   <p>➤ Kaustubh Sule</p>
-  <p>➤ Parvez Amhed Ansari</p><br>
+  <p>➤ Parvez Ahmed Ansari</p><br>
 
   
   <b>Project Components:</b><br>
