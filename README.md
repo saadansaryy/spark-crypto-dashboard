@@ -63,7 +63,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="JavaScript" width="40" height="40"/>&nbsp; 
   <img src="https://react-chartjs-2.js.org/img/logo.svg" title="React-Chartjs-2" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://static.coingecko.com/s/halloween2022_lightmode-1cf0d6324e097a7e18685816cd0ee100885446305ecd8ca2469814352993dd57.png" title="Coingecko API" alt="JavaScript" width="120" height="40"/>&nbsp;
