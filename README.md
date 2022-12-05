@@ -46,7 +46,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   
   <h2>Project Description</h2>
   <b>Project Name : Spark | Cryptocurrency Dashboard </b>
-  <a href ="https://spark-cryptocurrency-dashboard.herokuapp.com/"/>
+  <a href ="https://spark-crypto-dashboard.vercel.app/"/>
   Live Here
   </a>
  <br>
